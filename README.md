@@ -24,7 +24,7 @@ A estrutura do repositório é organizada da seguinte forma:
 
 **TargetSistemas:** Contéudo disponibilizado pela [TargetSistemas](https://targetsistemas.com.br/).
 
-**Descrição código 1: Verificação de Números de Fibonacci:**
+## **Descrição código 1: Verificação de Números de Fibonacci:**
 
 - Este código verifica se um número fornecido pelo usuário pertence à sequência de Fibonacci. A função teste_fibonacci recebe um número F e retorna True se o número pertence à sequência e False caso contrário.
 
@@ -35,7 +35,7 @@ A estrutura do repositório é organizada da seguinte forma:
 - Se o número fornecido estiver na sequência, a função retorna True; caso contrário, False.
 
 
-**Descrição código 2: Contagem de Letras na String:**
+## **Descrição código 2: Contagem de Letras na String:**
 
 - Este código conta quantas vezes a letra 'a' aparece em uma string fornecida pelo usuário e imprime o resultado.
 
@@ -46,7 +46,7 @@ A estrutura do repositório é organizada da seguinte forma:
 - Imprime o resultado com base na contagem.
 
 
-**Descrição código 3: Soma dos Números Inteiros:**
+## **Descrição código 3: Soma dos Números Inteiros:**
 
 - Este código calcula a soma dos números inteiros a partir de 1 até um índice fornecido, excluindo o próprio índice.
 
@@ -57,7 +57,7 @@ A estrutura do repositório é organizada da seguinte forma:
 - O resultado é a soma dos números de 1 a 11.
 
 
-**Descrição teste 4: Respostas de Sequências:**
+## **Descrição teste 4: Respostas de Sequências:**
 
 
 - Este teste foi feito para provar e treinar minha lógica.
@@ -66,7 +66,7 @@ A estrutura do repositório é organizada da seguinte forma:
 
 - Todas as respostas estão contidas no arquivo 'teste04-lógica.py'
 
-**Descrição teste 5: Questão das Lâmpadas:**
+## **Descrição teste 5: Questão das Lâmpadas:**
 
 - Esta é uma solução para identificar lâmpadas com base em um método de ligar e desligar.
 
