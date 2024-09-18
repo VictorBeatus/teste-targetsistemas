@@ -24,8 +24,8 @@ A estrutura do repositório é organizada da seguinte forma:
 
 - **TargetSistemas:** Contéudo disponibilizado pela [TargetSistemas](https://targetsistemas.com.br/).
 
-- **Código 1: Verificação de Números de Fibonacci:**
-  Descrição
+**Código 1: Verificação de Números de Fibonacci:**
+Descrição
 
 - Este código verifica se um número fornecido pelo usuário pertence à sequência de Fibonacci. A função teste_fibonacci recebe um número F e retorna True se o número pertence à sequência e False caso contrário.
 
@@ -35,8 +35,8 @@ A estrutura do repositório é organizada da seguinte forma:
 - O loop while continua gerando os próximos números da sequência até que o número atual seja maior que o valor fornecido.
 - Se o número fornecido estiver na sequência, a função retorna True; caso contrário, False.
 
-- **Código 2: Contagem de Letras na String:**
-  Descrição
+**Código 2: Contagem de Letras na String:**
+Descrição
 
 - Este código conta quantas vezes a letra 'a' aparece em uma string fornecida pelo usuário e imprime o resultado.
 
@@ -46,8 +46,8 @@ A estrutura do repositório é organizada da seguinte forma:
 - Utiliza o método count para contar as ocorrências da letra 'a'.
 - Imprime o resultado com base na contagem.
 
-- **Código 3: Soma dos Números Inteiros:**
-  Descrição
+**Código 3: Soma dos Números Inteiros:**
+Descrição
 
 - Este código calcula a soma dos números inteiros a partir de 1 até um índice fornecido, excluindo o próprio índice.
 
@@ -66,7 +66,7 @@ Descrição
 
 - Todas as respostas estão contidas no arquivo 'teste04-lógica.py'
 
-**Teste 4: Respostas de Sequências:**
+**Teste 5: Questões da Lâmpada:**
 Descrição
 
 - Esta é uma solução para identificar lâmpadas com base em um método de ligar e desligar.
@@ -81,7 +81,7 @@ Descrição
 ## 🔧 Tecnologias Utilizadas
 
 - Linguagem Python 3.12.3
-- IDE Visual Studio COde
+- IDE Visual Studio Code
 
 ## 🏁 Como Usar
 
