@@ -84,7 +84,7 @@ Descrição
 ## 🔧 Tecnologias Utilizadas
 
 - Linguagem Python 3.12.3
-- IDE Visual Studio COde
+- IDE Visual Studio Code
 
 ## 🏁 Como Usar
 
